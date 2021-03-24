@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestMainMethod
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in TestMainMethod
+countEvensTest(TestMainMethod)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	The public type TestMainMethod must be defined in its own file
+	CountEvenDigits cannot be resolved
+	CountEvenDigits cannot be resolved
+	CountEvenDigits cannot be resolved
+	CountEvenDigits cannot be resolved
+
+	at TestMainMethod.<init>(TestMainMethods.java:6)
+

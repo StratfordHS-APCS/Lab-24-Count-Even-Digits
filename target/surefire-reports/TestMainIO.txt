@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestMainIO
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.077 s <<< FAILURE! - in TestMainIO
+outputTest(TestMainIO)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	Main cannot be resolved
+
+	at TestMainIO.outputTest(TestMainIO.java:45)
+

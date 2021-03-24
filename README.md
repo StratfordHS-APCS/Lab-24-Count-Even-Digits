@@ -1,16 +1,15 @@
 ![Points badge](../../blob/badges/.github/badges/points.svg)
 
-# Lab ## - Template
+# Lab 24 - Count Even Digits
 
-Template for Java labs.
+## Lab Goal
+You will be writing a recursive method that will count the number of even digits in an integer.
 
-For some reason the points badge causes the green check to show even if tests fail... sometimes.
+## Instructions
+ * Complete the `countEvens` method to **recursively** count the number of even digits in an integer.
+ * You'll want to use `%` and `/` to separate one digit at a time from the integer.
+ * Complete the main method to ask the user for an integer and then output how many even digits there are.
 
 ### Testing
 
 To run the automated tests select the 'Shell' tab and enter the command `mvn test` to run the tests.
-
-### Using Uploaded .jar Files
-
-- Put the `.jar` files in the `./jars` directory.
-- Set the run command to be `run = "export CLASSPATH=.:./jars/*; javac -d . *.java; java Main"`
